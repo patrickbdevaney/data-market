@@ -18,3 +18,5 @@ src/@types/graph.types.ts
 tsconfig.tsbuildinfo
 __snapshots__
 storybook-static
+  .next/cache/webpack/client-production/0.pack 
+   /.next 
